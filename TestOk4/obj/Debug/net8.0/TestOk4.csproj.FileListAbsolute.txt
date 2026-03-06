@@ -202,3 +202,4 @@ C:\Users\328-2\Desktop\ofkks4\TestOk4\obj\Debug\net8.0\refint\TestOk4.dll
 C:\Users\328-2\Desktop\ofkks4\TestOk4\obj\Debug\net8.0\TestOk4.pdb
 C:\Users\328-2\Desktop\ofkks4\TestOk4\obj\Debug\net8.0\TestOk4.genruntimeconfig.cache
 C:\Users\328-2\Desktop\ofkks4\TestOk4\obj\Debug\net8.0\ref\TestOk4.dll
+C:\Users\328-2\Desktop\ofkks4\TestOk4\obj\Debug\net8.0\TestOk4.sourcelink.json

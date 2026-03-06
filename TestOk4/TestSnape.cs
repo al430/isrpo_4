@@ -63,7 +63,7 @@ namespace TestOk4
             Assert.Equal(expectedArea, triangle.Area());
         }
         [Fact]
-        public void TrianglePerimeterCalculateTestFailedOnPurpose()
+        public void TrianglePerimeterCalculateTest()
         {
             const double a = 5;
             const double b = 5;
