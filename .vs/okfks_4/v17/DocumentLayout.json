@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\328-2\\Desktop\\ofkks4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1507CD1-167D-44AB-B385-1B3C9D7E2424}|TestOk4\\TestOk4.csproj|c:\\users\\328-2\\desktop\\ofkks4\\testok4\\testsnape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1507CD1-167D-44AB-B385-1B3C9D7E2424}|TestOk4\\TestOk4.csproj|solutionrelative:testok4\\testsnape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE65F889-09D5-4900-AC32-0FE5D60D1643}|TestOk4\\TestOk4.csproj|c:\\users\\328-2\\desktop\\ofkks4\\testok4\\testsnape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE65F889-09D5-4900-AC32-0FE5D60D1643}|TestOk4\\TestOk4.csproj|solutionrelative:testok4\\testsnape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1507CD1-167D-44AB-B385-1B3C9D7E2424}|TestOk4\\TestOk4.csproj|c:\\users\\328-2\\desktop\\ofkks4\\testok4\\testok4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1507CD1-167D-44AB-B385-1B3C9D7E2424}|TestOk4\\TestOk4.csproj|solutionrelative:testok4\\testok4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AE65F889-09D5-4900-AC32-0FE5D60D1643}|TestOk4\\TestOk4.csproj|C:\\Users\\328-2\\Desktop\\ofkks4\\testok4\\testok4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE65F889-09D5-4900-AC32-0FE5D60D1643}|TestOk4\\TestOk4.csproj|solutionrelative:testok4\\testok4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "TestOk4\\TestOk4.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-06T09:31:37.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T09:31:37.272Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "TestOk4\\TestSnape.cs",
               "ToolTip": "C:\\Users\\328-2\\Desktop\\ofkks4\\TestOk4\\TestSnape.cs",
               "RelativeToolTip": "TestOk4\\TestSnape.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAIwEcAAAAuAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwEEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T09:30:11.084Z",
               "EditorCaption": ""
