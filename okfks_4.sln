@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okfks_4", "okfks_4\okfks_4.csproj", "{7DE96436-CF02-496E-A655-DAAC60B49A5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestOk4", "TestOk4\TestOk4.csproj", "{AE65F889-09D5-4900-AC32-0FE5D60D1643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE96436-CF02-496E-A655-DAAC60B49A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE96436-CF02-496E-A655-DAAC60B49A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE96436-CF02-496E-A655-DAAC60B49A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE96436-CF02-496E-A655-DAAC60B49A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE65F889-09D5-4900-AC32-0FE5D60D1643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE65F889-09D5-4900-AC32-0FE5D60D1643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE65F889-09D5-4900-AC32-0FE5D60D1643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE65F889-09D5-4900-AC32-0FE5D60D1643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC01C8DB-DA3A-4422-9BA1-8425D7CB5646}
+	EndGlobalSection
+EndGlobal
